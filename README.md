@@ -1,4 +1,7 @@
-# INSTRUCTION GENTLEMAN v10.1
+# INSTRUCTION GENTLEMAN v10.2
+
+INSTRUCTION_v10_2.md - 16,097 tokens (три персоны)
+INSTRUCTION_v10_2_lite_beta.md - 12,225 tokens (нейтральная, без персон)
 
 **Протокол управления языковой моделью · Triple Persona Edition**
 
@@ -167,6 +170,9 @@ INSTRUCTION GENTLEMAN — это протокол, который это чин�
 ## Обратная связь
 
 Нашли баг? Откройте Issue или напишите в комментариях на Хабре. Каждый баг, о котором сообщили — был исправлен.
+Связь:
+tg: @sema_vlg / https://t.me/soul_in_ai
+почта: step.row@yandex.ru
 
 ---
 
