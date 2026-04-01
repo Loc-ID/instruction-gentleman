@@ -1,6 +1,7 @@
 # INSTRUCTION GENTLEMAN v10.2
 
 INSTRUCTION_v10_2.md - 16,097 tokens (три персоны)
+
 INSTRUCTION_v10_2_lite_beta.md - 12,225 tokens (нейтральная, без персон)
 
 **Протокол управления языковой моделью · Triple Persona Edition**
